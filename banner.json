@@ -1,22 +1,22 @@
 [
    {
     "id": 1,
-    "img": ""
+    "img": "https://github.com/Ponna-Rajesh/banner-api.github.io/blob/main/banner.json"
    } ,
    {
     "id": 2,
-    "img": ""
+    "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/women.png"
    } ,
    {
     "id": 3,
-    "img": ""
+    "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/Lilac%20Childish%20Kids%20Fashion%20Store%20Banner%20.png"
    } ,
    {
     "id": 4,
-    "img": ""
+    "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/Brown Minimalist Home Decoration Banner.png"
    } ,
    {
     "id": 5,
-    "img": ""
+    "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/Neutral Minimalist Skincare Site Banner.png"
    } 
 ]
