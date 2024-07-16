@@ -1,22 +1,27 @@
 [
    {
     "id": 1,
+    "name": "Men",
     "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/men.png"
    } ,
    {
     "id": 2,
+    "name": "Women",
     "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/women.png"
    } ,
    {
     "id": 3,
+    "name": "Kids",
     "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/Lilac%20Childish%20Kids%20Fashion%20Store%20Banner%20.png"
    } ,
    {
     "id": 4,
-    "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/Brown Minimalist Home Decoration Banner.png"
+    "name": "Home",
+    "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/Brown%20Minimalist%20Home%20Decoration%20Banner.png"
    } ,
    {
     "id": 5,
-    "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/Neutral Minimalist Skincare Site Banner.png"
-   } 
+    "name": "Beauty",
+    "img": "https://raw.githubusercontent.com/Ponna-Rajesh/banner-api.github.io/main/images/Neutral%20Minimalist%20Skincare%20Site%20Banner.png"
+   }
 ]
